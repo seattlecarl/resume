@@ -1,6 +1,8 @@
 # Generic Cover Letter for Carl DaVault
 
-I'm a technical generalist and expert troubleshooter with experience in building CI/CD pipelines, troubleshooting operating systems, using various "devops" systems like terraform, cloudformation, etc.
+I'm a technical generalist and expert troubleshooter with experience in building CI/CD pipelines, troubleshooting operating systems, using various "devops" systems like terraform, cloudformation, etc. I love jumping in and learning new technologies.
+
+On a short contract at Amazon Leo, I worked in a test lab for satellite optical components and learned about SCADA, SCP, Amazon's internal build tools, NI TestStand, manufacturing safety, and optical test equipment. Primarily used Kiro (with various models) as my AI dev environment.
 
 At Impinj I built CI/CD systems for integration testing SDK's and firmware on RFID reader boards (see https://www.impinj.com/products/developer-tools).
 
