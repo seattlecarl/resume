@@ -1,5 +1,13 @@
 # Resume for Carl DaVault
 
+## Short Contract At Amazon Leo from June 2026 to October 2026
+
+* Wrote tests using python and NI teststand
+* Wrote automation for configuration, troubleshooting, and forensics of test environments and equipment using bash, python, and PowerShell
+* Learned Amazon's builder tools - brazil, crux, pipelines, etc
+* Used Kiro AI IDE and cli to accelerate coding and troubleshooting
+* Provided oncall hardware and software support for testing Optical Inter-Satellite Link components
+  
 ## Staff Software Developer/SDET at Impinj from 2020 to 2026
 
 * Designed and implemented testing and automation frameworks using Python and C/C++.
